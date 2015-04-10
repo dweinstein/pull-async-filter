@@ -1,0 +1,32 @@
+{
+  "name": "pull-async-filter",
+  "version": "1.0.0",
+  "description": "a through for dominictarr's pull-stream to remove items with an async filter function",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dweinstein/pull-async-filter.git"
+  },
+  "keywords": [
+    "pull-stream",
+    "through",
+    "async",
+    "filter"
+  ],
+  "author": "dweinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dweinstein/pull-async-filter/issues"
+  },
+  "homepage": "https://github.com/dweinstein/pull-async-filter",
+  "devDependencies": {
+    "pull-delay": "^1.0.1",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "pull-stream": "^2.26.0"
+  }
+}
