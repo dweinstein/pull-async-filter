@@ -4,7 +4,7 @@ A through stream that removes items with an async filter.
 
 # USAGE
 
-```javscript
+```javascript
 var remove = require('pull-async-filter');
 var pull = require('pull-stream');
 
