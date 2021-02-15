@@ -27,6 +27,6 @@
     "tape": "^4.0.0"
   },
   "dependencies": {
-    "pull-stream": "^2.26.0"
+    "pull-stream": "^3.6.14"
   }
 }
